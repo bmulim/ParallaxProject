@@ -3,7 +3,7 @@
 
 > Primeiro Projeto HTML e CSS estáticos
 
-[Clique aqui para acessar](https://bmulim.github.io/Projeto-Parallax/)
+[Clique aqui para acessar](https://bmulim.github.io/ParallaxProject/)
 
 ## Tecnologias
 
